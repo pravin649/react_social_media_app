@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "1st post",
+      "datetime": "July 16,2021 11:47:39 AM",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsum mole"
+    },
+    {
+      "id": 2,
+      "title": "Second post",
+      "datetime": "July 16,2021 11:47:48 AM",
+      "body": "impedit earum molestiae expeditar sit, amet consectetur doloribus aperiam, fuga voluptate voluptas!"
+    },
+    {
+      "id": 3,
+      "title": "Number Three",
+      "datetime": "July 16,2021 11:48:05 AM",
+      "body": "Lorem impedit earum molestiae expedita doloribus aperiam, fuga voluptate voluptas!"
+    },
+    {
+      "id": 4,
+      "title": "Testing a 4th post",
+      "datetime": "August 02,2021 11:46:27 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Volup expedita doloribus aperiam, fuga voluptate voluptas!"
+    }
+  ]
+}
